@@ -8,29 +8,6 @@
   * [A proper introduction](tutorial/a-proper-introduction.md)
   * [Group meeting](tutorial/group-meeting.md)
   * [Quote](tutorial/quote.md)
-* [Cookbook](cookbook.md)
-
-## ENGINE
-
-* [Installation](engine/installation.md)
-* [Authentication](engine/identity.md)
-* [API](engine/api.md)
-* [Services](engine/services/README.md)
-  * [Configuration](engine/services/configuration.md)
-  * [Messaging](engine/services/messaging/README.md)
-    * [ZeroMQ](engine/services/messaging/zeromq.md)
-    * [AMQP 0-9-1](engine/services/messaging/amqp-0-9-1.md)
-    * [Webhook](engine/services/messaging/webhook.md)
-  * [Engine service](engine/services/engine-service.md)
-
-## Integration
-
-* [Frontend](integration/frontend/README.md)
-  * [React](integration/frontend/react.md)
-  * [Angular](integration/frontend/angular.md)
-  * [Vue](integration/frontend/vue.md)
-  * [Svelte](integration/frontend/svelte.md)
-* [Backend](integration/backend.md)
 
 ## Reference
 
@@ -67,9 +44,3 @@
     * [Assert service](libraries/test-suite/then/assert-service.md)
     * [Assert event](libraries/test-suite/then/assert-event.md)
   * [Customize](libraries/test-suite/customize.md)
-
-## Advanced topics
-
-* [Deep integration](advanced-topics/deep-integration.md)
-* [Custom JMESPath functions](advanced-topics/custom-jmespath-functions.md)
-* [Custom YAML tags](advanced-topics/custom-yaml-tags.md)

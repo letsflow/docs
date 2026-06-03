@@ -256,7 +256,7 @@ In this case, the component will use [react-jsonschema-form](https://rjsf-team.g
 <figure><img src="../.gitbook/assets/screenshot-localhost_8080-2025_03_13-14_47_40.png" alt=""><figcaption><p>Rendered form using react-jsonschema-form with the PrimeReact theme</p></figcaption></figure>
 
 {% hint style="success" %}
-Visit the [LetsFlow React documentation](../integration/frontend/react.md) to learn how to build this component.
+Visit the [LetsFlow React documentation](/broken/pages/Zg8IYiImlju3ziv7obbh) to learn how to build this component.
 {% endhint %}
 
 #### Sub schema validation
@@ -642,7 +642,7 @@ When the sales team uploads a quote, it should be emailed to the customer. For t
 The email service fills out a template with the provided data from the process to create a customized email. The quote PDF is added as an attachement.
 
 {% hint style="success" %}
-In the [backend documentation](../integration/backend.md), you'll learn how to create the `email` service.
+In the [backend documentation](/broken/pages/JAU5GrDJrD1BNFWJ6iEp), you'll learn how to create the `email` service.
 {% endhint %}
 
 ### Test case
@@ -2070,4 +2070,4 @@ result: !format uri
 
 ### Congratulations!
 
-You've completed the tutorial. For more examples please check out the [Cookbook](../cookbook.md).
+You've completed the tutorial. For more examples please check out the [Cookbook](/broken/pages/X8oRTAzVZ7hW9KurCw06).
